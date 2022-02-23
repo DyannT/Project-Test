@@ -96,7 +96,7 @@
     max-width: 100%;
 }
 
-/* Mobile dùng khi muốn có khoảng cách mà chia đều */
+/* Đứng từ vị trí(Mobile)-offset */
 .c-o-1 {
     margin-left: 8.33333%;
 }
@@ -231,7 +231,7 @@
         flex: 0 0 100%;
         max-width: 100%;
     }
-/* Tablet dùng khi muốn có khoảng cách mà chia đều */
+/* Đứng từ vị trí(Tablet)-offset */
     .m-o-1 {
         margin-left: 8.33333%;
     }
@@ -383,7 +383,7 @@
         flex: 0 0 100%;
         max-width: 100%;
     }
-/* PC dùng khi muốn có khoảng cách */
+/* Đứng từ vị trí(Pc)-offset */
     .l-o-1 {
         margin-left: 8.33333%;
     }
@@ -547,7 +547,7 @@
         max-width: 100%;
     }
 
-/* PC dùng khi muốn có khoảng cách (Khi ma có wide mới dùng đc)*/
+/* Đứng từ vị trí(PC với wide)-offset */
     .wide .l-o-1 {
         margin-left: 8.33333%;
     }
